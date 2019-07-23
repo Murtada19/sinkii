@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=313736093176430603
 prefix=!
-game=Break | !play
+game=Break |SINKI music
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NjAzMzA0NTk0NTQxNjQxNzQ5.XTddSw.HXKni43CI7wIlp5zLRGpsDafpJQ
